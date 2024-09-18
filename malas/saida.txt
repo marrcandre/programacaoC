@@ -1,0 +1,2 @@
+Caso 1: good
+Caso 2: bad
